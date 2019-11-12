@@ -1,0 +1,4 @@
+[submodule "uring/c/liburing"]
+	path = uring/c/liburing
+	url = http://git.kernel.dk/liburing
+	branch = master
